@@ -5,4 +5,5 @@ Código en Python a ser completado para desarrollar la actividad propuesta en [e
 
 Requiremientos
 --------------
-Para poder probar el código compartido en este repositorio es necesario que usted tenga instalado VirtualBox en el computador donde correrá este código.
+* Para poder probar el código compartido en este repositorio es necesario que usted tenga instalado VirtualBox en el computador donde correrá este código.
+* Instalar [Flask](http://flask.pocoo.org/docs/0.10/installation/) [Video](https://www.youtube.com/watch?v=2ZBj7EbDU0A)

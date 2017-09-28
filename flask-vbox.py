@@ -10,7 +10,7 @@ app = Flask(__name__)
 # curl http://localhost:5000
 @app.route('/',methods = ['GET'])
 def index():
-	return "Hola Javeriana"
+	return "Hola"
 
 # Este metodo retorna la lista de sistemas operativos soportados por VirtualBox
 # Los tipos de sistemas operativos soportados deben ser mostrados al ejecutar 
